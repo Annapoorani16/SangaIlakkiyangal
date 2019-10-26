@@ -2,7 +2,7 @@
     <string name="app_name">Sanga Ilakkiyangal</string>
     <string name="ta_app_name">சங்க இலக்கியங்கள்</string>
     <string name="try_again_later">Please try again later</string>
-    <string name="tap_to_retry">Tap to retry</string>
+    <string name="tap_to_retry">மீண்டும் முயற்சிக்க தட்டவும்</string>
     <string name="download">பதிவிறக்கு</string>
     <string name="open">திற</string>
     <string name="open_in_browser">உலாவியில் திற</string>
@@ -13,6 +13,6 @@
     <string name="download_complete">பதிவிறக்கம் முடிந்தது&#8230;</string>
     <string name="download_error">பதிவிறக்க முடியவில்லை&#8230;</string>
 
-    <string name="download_down_failed">Download Failed</string>
+    <string name="download_down_failed">பதிவிறக்கம் தோல்வியடைந்தது</string>
     <string name="global_something_went_wrong">Something went wrong, Try again!</string>
 </resources>
